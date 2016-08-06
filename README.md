@@ -1,5 +1,5 @@
 # awesome-Ghana
-A collection of updates in developer communities, project and events in Ghana, West Africa
+A collection of updates on developer communities, project and events in Ghana, West Africa
 
 Comming soon! 
 
