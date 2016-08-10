@@ -1,9 +1,12 @@
 # awesome-Ghana
-A collection of updates on developer communities, project and events in Ghana, West Africa
+A collection of updates on developer communities, project and events in Ghana, West Africa.
+
+> You can submit your community or project to be evaluated and added here :)
 
 ## Some interesting developer communitites
 * [Google Developer Group](http://accra.gdgghana.com/): Quote: *"Google Developer Group (GDG) Ghana is a vibrant community of Ghanaian technologists and enthusiasts that actively employ Google technologies for work and pleasure"*. Also on [Github](https://github.com/GDGGhana)
-* 
+* [Geeky Ghana](https://plus.google.com/u/1/communities/117737931098874085145): A Google+ community for the Ghanaian tech-savvy and pure geeks.
+* [Ghanaian Coders](https://plus.google.com/u/1/communities/102050284893699144230): A Google+ community created to ease finding like minded people who will be able to code in your language and also to co-code a program with you. 
 
 ## Interesting organisations
 * [iSpace](http://ispacegh.com/: Quote: *"iSpace is a unique environment where technology startups can start up faster. We nurture a local network of like-minded and focused entrepreneurs, providing space for them to work, meet, collaborate, learn and have fun"*.
