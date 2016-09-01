@@ -9,7 +9,7 @@ A collection of updates on developer communities, project and events in Ghana, W
 * [Ghanaian Coders](https://plus.google.com/u/1/communities/102050284893699144230): A Google+ community created to ease finding like minded people who will be able to code in your language and also to co-code a program with you. 
 
 ## Interesting organisations
-* [iSpace](http://ispacegh.com/: Quote: *"iSpace is a unique environment where technology startups can start up faster. We nurture a local network of like-minded and focused entrepreneurs, providing space for them to work, meet, collaborate, learn and have fun"*.
+* [iSpace](http://ispacegh.com/): Quote: *"iSpace is a unique environment where technology startups can start up faster. We nurture a local network of like-minded and focused entrepreneurs, providing space for them to work, meet, collaborate, learn and have fun"*.
 
 ## Some interesting project
 * https://github.com/laberba/akan-translation-guide: Quote: *"A guide for translating software into Akan language"*
